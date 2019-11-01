@@ -4,3 +4,5 @@
 
   https://developer.android.com/reference/android/support/v4/view/ViewPager.PageTransformer (안드로이드 문서)
   https://android-arsenal.com/details/3/6850 (페이저의 여러 가지 방법의 Transformer)
+  
+  작성 언어 : Kotlin
